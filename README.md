@@ -26,14 +26,14 @@ You can set Fish as your default shell instead of Bash:
 chsh -s /usr/bin/fish
 ```
 
-#Step 4: Creating a config file
+# Step 4: Creating a config file
 In order to be able to change the properties of the Fish shell, we first need to create a config file.
 ```
 mkdir -p ~/.config/fish
 vim ~/.config/fish/config.fish
 ```
 
-# Step 6: Switching back to Bash
+# Step 5: Switching back to Bash
 If you would like to use Bash again, simply type:
 ```
 bash
